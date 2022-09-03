@@ -1,0 +1,15 @@
+{
+    "Clássico": ["morango", "banana", "abacaxi", "manga", "pêssego",
+    "mel", "gelo", "iogurte"],
+    "Forest Berry": ["morango", "framboesa", "mirtilo", "mel", "gelo",
+    "iogurte"],
+    "Freezie": ["amora", "mirtilo", "groselha preta", "suco de uva",
+    "iogurte congelado"],
+    "Greenie": ["maçã verde", "kiwi", "limão", "abacate", "espinafre",
+    "gelo", "suco de maçã"],
+    "Vegan Delite": ["morango", "maracujá", "abacaxi", "manga",
+    "pêssego", "gelo", "leite de soja"],
+    "Apenas sobremesas": ["banana", "sorvete", "chocolate", "amendoim",
+    "cereja"]
+}
+    
